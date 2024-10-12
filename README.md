@@ -19,8 +19,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sduprey18/Answers/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sduprey18/Answers/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
