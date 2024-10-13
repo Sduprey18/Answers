@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sduprey18/Answers/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sduprey18/Answers/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -26,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sduprey18/Answers/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
 |  |
@@ -59,4 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
