@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
+| [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
