@@ -69,8 +69,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Sduprey18/Answers/tree/master/0062-unique-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sduprey18/Answers/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sduprey18/Answers/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
