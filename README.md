@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/Sduprey18/Answers/tree/master/0792-binary-search) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
@@ -98,4 +99,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
+| [0792-binary-search](https://github.com/Sduprey18/Answers/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
