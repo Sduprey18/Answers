@@ -18,6 +18,7 @@ class Solution:
           currentString = ''.join(map(str, current))
           res.append(int(''.join(map(str, currentString))))
           
+          
         
         dfs(root.left, current)
         dfs(root.right, current)
