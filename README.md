@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Sduprey18/Answers/tree/master/0234-palindrome-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sduprey18/Answers/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sduprey18/Answers/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sduprey18/Answers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Sduprey18/Answers/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sduprey18/Answers/tree/master/0283-move-zeroes) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sduprey18/Answers/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Sduprey18/Answers/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -111,4 +114,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sduprey18/Answers/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/Sduprey18/Answers/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
