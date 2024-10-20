@@ -115,4 +115,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sduprey18/Answers/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/Sduprey18/Answers/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Sduprey18/Answers/tree/master/0129-sum-root-to-leaf-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Sduprey18/Answers/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Sduprey18/Answers/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
