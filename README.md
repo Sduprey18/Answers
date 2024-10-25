@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sduprey18/Answers/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sduprey18/Answers/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Sduprey18/Answers/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
