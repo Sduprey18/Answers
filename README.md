@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sduprey18/Answers/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sduprey18/Answers/tree/master/0287-find-the-duplicate-number) |
+| [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Sduprey18/Answers/tree/master/0792-binary-search) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sduprey18/Answers/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
@@ -157,4 +161,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
