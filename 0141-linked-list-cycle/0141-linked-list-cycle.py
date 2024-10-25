@@ -17,6 +17,7 @@ class Solution:
             current = current.next
         return False
         '''
+        #using floyds cycle detect 
         slow, fast = head, head
         while fast and fast.next:
             slow = slow.next
