@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sduprey18/Answers/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sduprey18/Answers/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sduprey18/Answers/tree/master/0287-find-the-duplicate-number) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sduprey18/Answers/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,8 +148,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
