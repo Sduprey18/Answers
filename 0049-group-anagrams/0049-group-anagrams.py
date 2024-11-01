@@ -1,17 +1,16 @@
-
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         hashmap = {}
-        for word in strs:
-          if str(sorted(word)) in hashmap:
-            hashmap[str(sorted(word))] +=  [word]
-          else:
-            hashmap[str(sorted(word))] =  [word]
-        
         res = []
-        for val in hashmap.values():
-          res.append(val)
+        for word in strs:
+            sortedWord = sorted(word)
+            sortedWord = str(sortedWord)
+            if sortedWord in hashmap:
+                hashmap[sortedWord].append(word)
+            else:
+                hashmap[sortedWord] = [word]
+        
+        for key, value in hashmap.items():
+            res.append(value)
+        
         return res
-
-
-
