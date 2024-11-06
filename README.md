@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sduprey18/Answers/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Sduprey18/Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sduprey18/Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sduprey18/Answers/tree/master/0215-kth-largest-element-in-an-array) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Sduprey18/Answers/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Sduprey18/Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Sduprey18/Answers/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sduprey18/Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sduprey18/Answers/tree/master/2121-find-if-path-exists-in-graph) |
