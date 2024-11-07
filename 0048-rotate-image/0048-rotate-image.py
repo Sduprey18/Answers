@@ -3,6 +3,8 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
+
+        #for this, you just transpose the matrix; then reverse the rows!
         transpose = []
         rows, cols = len(matrix), len(matrix[0])
         for i in range(cols):
