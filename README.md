@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Sduprey18/Answers/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Sduprey18/Answers/tree/master/0792-binary-search) |
+| [0978-valid-mountain-array](https://github.com/Sduprey18/Answers/tree/master/0978-valid-mountain-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
