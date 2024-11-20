@@ -13,5 +13,5 @@ class Solution:
             elif nums[mid] < target:
                 low += 1
             else:
-                high -=1
+                high = mid -1
         return -1
