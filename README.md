@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Sduprey18/Answers/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/Sduprey18/Answers/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Sduprey18/Answers/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Sduprey18/Answers/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Sduprey18/Answers/tree/master/0792-binary-search) |
@@ -122,12 +123,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Sduprey18/Answers/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Sduprey18/Answers/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sduprey18/Answers/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Sduprey18/Answers/tree/master/0062-unique-paths) |
+| [0542-01-matrix](https://github.com/Sduprey18/Answers/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Sduprey18/Answers/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sduprey18/Answers/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Sduprey18/Answers/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [1035-cousins-in-binary-tree](https://github.com/Sduprey18/Answers/tree/master/1035-cousins-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sduprey18/Answers/tree/master/2121-find-if-path-exists-in-graph) |
