@@ -12,7 +12,6 @@ class Solution:
             adjList[preReq].append(course)
 
             indegree[course] += 1
-
         
         q = []
         for i in range(len(indegree)):
@@ -20,7 +19,9 @@ class Solution:
                 q.append(i)
         
         while q:
+            #getting index for curr, to get nei
             index= q.pop(0)
+            #getting list of nei
             curr = adjList[index]
             for child in curr:
                 indegree[child] -=1
