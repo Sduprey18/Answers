@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sduprey18/Answers/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
+| [0820-find-eventual-safe-states](https://github.com/Sduprey18/Answers/tree/master/0820-find-eventual-safe-states) |
 | [1035-cousins-in-binary-tree](https://github.com/Sduprey18/Answers/tree/master/1035-cousins-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sduprey18/Answers/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Sduprey18/Answers/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Sduprey18/Answers/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
+| [0820-find-eventual-safe-states](https://github.com/Sduprey18/Answers/tree/master/0820-find-eventual-safe-states) |
 | [1035-cousins-in-binary-tree](https://github.com/Sduprey18/Answers/tree/master/1035-cousins-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sduprey18/Answers/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Sduprey18/Answers/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Sduprey18/Answers/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sduprey18/Answers/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -252,4 +255,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sduprey18/Answers/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Sduprey18/Answers/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
