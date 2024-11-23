@@ -1,18 +1,17 @@
 
-
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
         n = len(graph)
         indegree = [0] * n
         reverseAdjList = {i: [] for i in range(n)}
 
-        # Create reverse graph and indegree array
+        # reverse the graph and create the indegree
         for i, neighbors in enumerate(graph):
             for neighbor in neighbors:
                 reverseAdjList[neighbor].append(i)
                 indegree[i] += 1
 
-        # Add all nodes with zero indegree to the queue
+        # add all 0's to q 
         q = []
         for i in range(n):
             if indegree[i] == 0:
