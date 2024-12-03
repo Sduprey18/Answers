@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Sduprey18/Answers/tree/master/0792-binary-search) |
 | [0978-valid-mountain-array](https://github.com/Sduprey18/Answers/tree/master/0978-valid-mountain-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sduprey18/Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Sduprey18/Answers/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sduprey18/Answers/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sduprey18/Answers/tree/master/0345-reverse-vowels-of-a-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sduprey18/Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
 |  |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sduprey18/Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sduprey18/Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Sduprey18/Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
 | ------- |
