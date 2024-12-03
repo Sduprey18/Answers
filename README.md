@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Sduprey18/Answers/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/Sduprey18/Answers/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/Sduprey18/Answers/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Sduprey18/Answers/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Sduprey18/Answers/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Sduprey18/Answers/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/Sduprey18/Answers/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Sduprey18/Answers/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sduprey18/Answers/tree/master/0207-course-schedule) |
+| [0529-minesweeper](https://github.com/Sduprey18/Answers/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Sduprey18/Answers/tree/master/0820-find-eventual-safe-states) |
 | [1035-cousins-in-binary-tree](https://github.com/Sduprey18/Answers/tree/master/1035-cousins-in-binary-tree) |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sduprey18/Answers/tree/master/0207-course-schedule) |
+| [0529-minesweeper](https://github.com/Sduprey18/Answers/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Sduprey18/Answers/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Sduprey18/Answers/tree/master/0820-find-eventual-safe-states) |
