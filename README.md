@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Sduprey18/Answers/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sduprey18/Answers/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Sduprey18/Answers/tree/master/0383-ransom-note) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sduprey18/Answers/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sduprey18/Answers/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sduprey18/Answers/tree/master/0383-ransom-note) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sduprey18/Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sduprey18/Answers/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
