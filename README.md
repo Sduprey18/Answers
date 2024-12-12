@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Sduprey18/Answers/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sduprey18/Answers/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Sduprey18/Answers/tree/master/0498-diagonal-traverse) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Sduprey18/Answers/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sduprey18/Answers/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-valid-mountain-array](https://github.com/Sduprey18/Answers/tree/master/0978-valid-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sduprey18/Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Sduprey18/Answers/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sduprey18/Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Sduprey18/Answers/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
