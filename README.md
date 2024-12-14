@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Sduprey18/Answers/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Sduprey18/Answers/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/Sduprey18/Answers/tree/master/0816-design-hashset) |
 | [0978-valid-mountain-array](https://github.com/Sduprey18/Answers/tree/master/0978-valid-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sduprey18/Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sduprey18/Answers/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sduprey18/Answers/tree/master/0383-ransom-note) |
+| [0816-design-hashset](https://github.com/Sduprey18/Answers/tree/master/0816-design-hashset) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sduprey18/Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sduprey18/Answers/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Sduprey18/Answers/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Sduprey18/Answers/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/Sduprey18/Answers/tree/master/0816-design-hashset) |
 ## Tree
 |  |
 | ------- |
@@ -271,4 +274,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Sduprey18/Answers/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Sduprey18/Answers/tree/master/0820-find-eventual-safe-states) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Sduprey18/Answers/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Sduprey18/Answers/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
