@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sduprey18/Answers/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sduprey18/Answers/tree/master/0383-ransom-note) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sduprey18/Answers/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sduprey18/Answers/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sduprey18/Answers/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sduprey18/Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sduprey18/Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Sduprey18/Answers/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sduprey18/Answers/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sduprey18/Answers/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
