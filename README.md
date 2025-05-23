@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sduprey18/Answers/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Sduprey18/Answers/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Sduprey18/Answers/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sduprey18/Answers/tree/master/0345-reverse-vowels-of-a-string) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sduprey18/Answers/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sduprey18/Answers/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sduprey18/Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sduprey18/Answers/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sduprey18/Answers/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sduprey18/Answers/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sduprey18/Answers/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Sduprey18/Answers/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sduprey18/Answers/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Sduprey18/Answers/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Sduprey18/Answers/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Sduprey18/Answers/tree/master/0529-minesweeper) |
@@ -198,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sduprey18/Answers/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sduprey18/Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sduprey18/Answers/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sduprey18/Answers/tree/master/0111-minimum-depth-of-binary-tree) |
