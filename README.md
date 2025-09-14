@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sduprey18/Answers/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sduprey18/Answers/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sduprey18/Answers/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sduprey18/Answers/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sduprey18/Answers/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sduprey18/Answers/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sduprey18/Answers/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sduprey18/Answers/tree/master/0387-first-unique-character-in-a-string) |
 | [0816-design-hashset](https://github.com/Sduprey18/Answers/tree/master/0816-design-hashset) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sduprey18/Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sduprey18/Answers/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sduprey18/Answers/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sduprey18/Answers/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -302,4 +305,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Sduprey18/Answers/tree/master/0816-design-hashset) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sduprey18/Answers/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
