@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sduprey18/Answers/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sduprey18/Answers/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sduprey18/Answers/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sduprey18/Answers/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sduprey18/Answers/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sduprey18/Answers/tree/master/0207-course-schedule) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sduprey18/Answers/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0529-minesweeper](https://github.com/Sduprey18/Answers/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Sduprey18/Answers/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Sduprey18/Answers/tree/master/0820-find-eventual-safe-states) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sduprey18/Answers/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sduprey18/Answers/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sduprey18/Answers/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sduprey18/Answers/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sduprey18/Answers/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -326,4 +329,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sduprey18/Answers/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sduprey18/Answers/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
