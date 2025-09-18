@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sduprey18/Answers/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Sduprey18/Answers/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Sduprey18/Answers/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sduprey18/Answers/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Sduprey18/Answers/tree/master/0816-design-hashset) |
 ## Tree
 |  |
