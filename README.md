@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Sduprey18/Answers/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Sduprey18/Answers/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sduprey18/Answers/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Sduprey18/Answers/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sduprey18/Answers/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sduprey18/Answers/tree/master/0345-reverse-vowels-of-a-string) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Sduprey18/Answers/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sduprey18/Answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sduprey18/Answers/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Sduprey18/Answers/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sduprey18/Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Sduprey18/Answers/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sduprey18/Answers/tree/master/0215-kth-largest-element-in-an-array) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Sduprey18/Answers/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sduprey18/Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Sduprey18/Answers/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Sduprey18/Answers/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Sduprey18/Answers/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Sduprey18/Answers/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sduprey18/Answers/tree/master/0217-contains-duplicate) |
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Sduprey18/Answers/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Sduprey18/Answers/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sduprey18/Answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Sduprey18/Answers/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Sduprey18/Answers/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Sduprey18/Answers/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
@@ -197,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sduprey18/Answers/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Sduprey18/Answers/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -337,4 +342,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sduprey18/Answers/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sduprey18/Answers/tree/master/0501-find-mode-in-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sduprey18/Answers/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
