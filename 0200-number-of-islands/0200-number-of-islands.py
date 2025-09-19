@@ -1,22 +1,44 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-      #notes in merck book
-      rows, cols = len(grid) , len(grid[0])
-      res = 0
-      def explore(row,col):
-        if row<0 or row>= rows or col<0 or col>=cols or grid[row][col] == 'x' or grid[row][col] =='0':
-            return
-        grid[row][col] = 'x'
-        explore(row+1, col)
-        explore(row-1, col)
-        explore(row, col+1)
-        explore(row, col-1)
-      for i in range(rows):
-        for j in range(cols):
-            if grid[i][j] == '1':
-                res+= 1
-                explore(i,j)
-      return res
+      #lets cook this
+      rows, cols = len(grid), len(grid[0])
+
+      visited = []
+      for row in range(rows):
+        rowHolder = []
+        for col in range(cols):
+          rowHolder.append(False)
+        visited.append(rowHolder)
+      
+      def bfs(start):
+        r, c = start
+        q = []
+        q.append((r,c))
+        visited[r][c] = True 
+        dirs = [(1,0),(-1,0),(0,1),(0,-1)]
+    
+        while q:
+          r, c = q.pop(0)
+
+          for _dir in dirs:
+            nr, nc = _dir[0] + r, _dir[1] + c
+
+            if (0<=nr<rows and 
+                0<=nc<cols and
+                 not visited[nr][nc] and 
+                 grid[nr][nc] == "1"):
+                 visited[nr][nc] = True 
+                 q.append((nr,nc))
+      
+      res =0 
+
+      for row in range(rows):
+        for col in range(cols):
+          if grid[row][col] == "1" and not visited[row][col]:
+            res += 1 
+            bfs((row,col))
+      
+      return res 
 
 
         
